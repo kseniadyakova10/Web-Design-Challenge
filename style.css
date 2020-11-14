@@ -1,0 +1,16 @@
+.box {
+    position: relative;
+    margin-top: 60px; 
+    margin-bottom: 40px; 
+    color:black;
+    background-color: white; 
+}
+
+.textstyleHeader {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.comp_text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
